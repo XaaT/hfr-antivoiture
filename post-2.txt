@@ -1,0 +1,103 @@
+﻿[fixed]Les avis des HFRiens éclairés[/fixed]
+[b]Le résumé de la situation par Krazouk[/b], archevêque du Saint Climat, héros du topic.
+[quotemsg=47243675,3176,235710]Disclaimer : Le reste du pavé à venir est mon point de vue afin d'aider XaT à remplir la FP avec les idées qui lui conviennent. Très centré sur la France. Je n'aborderai la voiture que du point de vue des problèmes qu'elle engendre. Je pense que tout le voit plus ou moins ce qu'elle peut apporter. Je parlerai souvent de voiture pour désigner le tout-voiture. Et souvent un amalgame sera fait avec le transport routier dans son ensemble.
+
+[b][u]Les problèmes du tout-voiture[/u][/b]
+
+Le problème du tout voiture est plus un problème dont on ressent les effets maintenant (ou plutôt depuis quelques années) suite à une politique passée. Comme l'a dit Hansaplast, ça a permis beaucoup de choses mais on n'arrive maintenant dans une impasse.
+
+Il y a différents volets à ce problème : sociétal, environnemental et énergétique. Ils sont liés les uns aux autres par bien des aspects et il y aura certainement des redondances entre ces volets.
+
+[u]Sociétal[/u]
+
+Le coût sociétal se divise lui même en plusieurs parties. C'est le sujet qui m'intéresse le moins dans la problématique de la voiture, il sera sans doute moins bien traité que les autres.
+
+Tout d'abord les accidents. En France, il y a environ 56000 accidents pour un peu moins de 3500 tués sur les routes.  Ces morts sont des morts violentes, pouvant souvent impliquer plusieurs personnes qui n'y sont pour rien. Il est peu pertinent de les comparer à d'autres causes de mortalité pour cette raison. De plus, il y a plus 26000 blessés hospitalisés ([url=https://fr.wikipedia.org/wiki/Accident_de_la_route_en_France]source[/url] dont je n'ai pas la proportion d'invalidité en conséquence.
+Au delà du coût humain, ces accidents sont financièrement lourds. En 2005 (ça a du baisser aujourd'hui avec la baisse du nombre d'accidents, mais n'oublions pas la hausse des coûts en parallèle), le coût pour la société de ces accidents s'élevait à près de 13 milliards d'euro, avec un coût global de l'insécurité routière de 2 milliards d'euro ([url=https://fr.wikipedia.org/wiki/Accident_de_la_route#Co.C3.BBts_pour_la_soci.C3.A9t.C3.A9]source[/url]).
+
+Les coûts humains vont au delà des accidents car on estime à 42000 morts par an en France le rôle de la pollution atmosphérique. Un ratio basé sur les émissions de GES (ce n'est pas tout à fait pareil mais ça donne un bon ordre de grandeur) permet d'en imputer environ 30 % au transport. Soit environ 14000 morts supplémentaires. On estime le coût global de cette pollution à 100 milliards d'euros par an ([url=http://www.lemonde.fr/planete/article/2015/07/15/la-pollution-de-l-air-coute-chaque-annee-101-3-milliards-d-euros-a-la-france_4683432_3244.html]source[/url]) soit environ 30 milliards imputable au transport.
+
+Un autre problème évident de la voiture est la congestion des villes et des périphéries. Les bouchons quoi! On peut le chiffrer à 17 milliards d'euros en 2014 ([url=http://www.lemonde.fr/economie/article/2014/10/14/le-cout-exorbitant-des-embouteillages_4505602_3234.html]source[/url] et on l'estime à 22 milliards en 2030. Au delà de l'aspect financier, c'est un temps perdu pour chacun des usagers énorme. Ce problème est essentiellement un problème de géométrie. L'empreinte au sol d'une voiture est de 8 m² pour 1,1 personne en moyenne. L'espace dans les villes est à partager entre les habitations/commerces, pour des populations de plus en plus nombreuses, les déplacements (la voiture prenant le plus d'espace), les espaces d'agréments (parcs, etc., c'est important en ville) et le stockage des voitures (garages, places de parking).
+
+Il y a également un énorme déficit de la balance commerciale française du en grande partie à l'importation de carburant, notamment le diesel. Cela coûta environ 40 milliards d'euros à la France en 2010 ([url=http://www.enerzine.com/10/13268+les-importations-de-gazole-pesent-sur-la-facture-energetique+.html]source[/url]).
+
+Enfin, la voiture coûte chère à chacun, environ 3300 euros par an ([url=http://www.lefigaro.fr/conso/2014/01/25/05007-20140125ARTFIG00275-utiliser-un-vehicule-represente-un-cout-de-3300-euros-par-an.php]source[/url]).
+
+[u]Environnemental[/u]
+
+En décembre 2015, la France s'est félicitée du succès de la COP21 (conférence sur le climat) avec la signature des 2°C. 2°C? Ca veut dire que les pays s'engagent à limiter leurs émissions de GES (gaz à effet de serre) afin que la température moyenne de la planète en 2100 n'augmentera pas de plus de 2°C par rapport à la période pré-industrielle. Pour ceux qui veulent en savoir plus sur le réchauffement climatique (ce que c'est, non ses conséquences), je vous invite à regarder [url]https://sciencetonnante.wordpress.com/2015/11/27/faut-il-croire-au-rechauffement-climatique-video/[/url].
+Il est déjà acquis que la température augmentera de plus de 1,5 °C même si on stoppait toutes les émissions de GES. Les 2°C nécessitent un gros effort.
+La France s'étant engagé, il lui faut réduire ses émissions de 40 % d'ici 2030 et de 75 % d'ici 2050 ([url=http://www.gouvernement.fr/special-cop-21-les-engagements-nationaux-de-la-france-3390]source[/url]).
+En France, 70 % des émissions de GES viennent de la consommation d'énergie dont 28 % pour le transport.
+[img]http://www.developpement-durable.gouv.fr/IMG/jpg/Repartisions_des_emissions_de_GES_en_France.jpg[/img]
+C'est la principale source de GES. Comme on est sur un topic sur la voiture, laissons de côté les autres sources (qu'il faudra également réduire mais c'est un autre sujet). Il est donc évident que, pour atteindre ses objectifs, la France doit agir sur le transport et tout particulièrement sur la voiture. Si on ne veut pas y toucher, il faudrait quasiment supprimer toutes les autres contributions!
+Pourquoi particulièrement sur la voiture? Parce qu'il y en a environ 33 millions, pour 5 millions de véhicules utilitaires (camionnettes) et 640 000 véhicules lourds (camions et autobus/car). [strike]Cela représente environ 85 % des émissions de GES du transport routier.[/strike] Cela représente 85 % des véhicules mais je n'ai pas les bonnes données pour conclure en terme d'émissions de GES.
+
+En plus de l'aspect climat, il y a également la pollution de l'air dont on a déjà parlé plus haut. Les polluants en cause sont les particules fines (les PM 2.5 et 10, particules de moins de 2,5 et 10 µm de diamètre) qui pénètrent en profondeur dans les poumons, les oxydes d'azote NOx (40x plus toxique que le CO), le monoxyde de carbone CO (un poison inodore) et l'ozone (indispensable dans la fameuse couche d'ozone en haute altitude mais toxique pour nous), ainsi que le benzène (cancérigène), le dioxyde de souffre SO2 et le plomb ([url=https://fr.wikipedia.org/wiki/Impact_environnemental_du_transport_routier]source[/url]. Dans les grandes villes, les dépassements des normes de pollution sont très fréquents. Ces polluants engendrent également une augmentation des allergies ([url=http://www.lemonde.fr/planete/article/2014/03/20/la-pollution-de-l-air-aggrave-les-allergies-au-pollen_4386125_3244.html]source[/url]).
+
+Il n'y a pas que la pollution de l'air, il y a également d'autres niveaux de pollution, plus difficile à évaluer, ayant pour cause la construction des infrastructures nécessaires au transport routier ainsi que la construction des voitures. La construction d'une voiture nécessite de nombreuses activités polluantes (comme beaucoup de produits) comme l'industrie pétrochimique (plastiques), métallurgique, minière (métaux comme le fer ou l'aluminium pour la carrosserie, métaux précieux pour les catalyseurs comme le platine ou le palladium), micro-électronique, électrochimique (batteries), etc. La fin de vie des véhicules est également à prendre en compte, avec le traitement des nombreux polluants contenus dans la voiture (même liste que précédemment).
+De plus, l'essence, comme le diésel sont des produits CMR (cancérigène) ([url=https://fr.wikipedia.org/wiki/Essence_(hydrocarbure)]source[/url] et [url=https://fr.wikipedia.org/wiki/Gazole]source[/url]).
+
+Enfin, il y a la nuisance sonore et visuelle (phares la nuit) que l'on retrouve en ville comme en dehors.
+
+[u]Energétique[/u]
+
+La voiture fonctionne au pétrole! Et ça, c'est bien connu, on a beau avoir des idées, du pétrole, on n'en a pas. J'ai déjà écrit plus haut que l'importation des produits pétroliers coûte très cher à la France. La plus grande partie est à destination du transport. Et si nous, on n'a pas de pétrole, les autres commencent à en avoir moins également. Ce vieux serpent de mer qu'est le pic de pétrole, le fameux "peak oil", est enfin arrivé, depuis 2006 d'après l'Agence Internationale pour l'Energie ([url=http://petrole.blog.lemonde.fr/2010/11/18/tout-va-bien-le-peak-oil-est-atteint-dit-lagence-internationale-de-lenergie/]source[/url]). N'imaginez pas un sommet façon Dirac, le "peak oil" est plutôt un pseudo plateau.
+En Europe, c'est très marqué.
+[img]http://t2.gstatic.com/images?q=tbn:ANd9GcRtFfh5UapbaKKiYaFPwBeuYSYY_isVY8BgJZ3QmMEVreyDfo20gGuSNE0[/img]
+Au niveau mondial, la production de pétrole non conventionnel aux USA principalement et la décision de l'OPEP en conséquence d'ouvrir les vannes en grand pour ne pas perdre de part de marché rendent la lecture plus compliqué. La production des USA devrait atteindre son maximum vers 2020 pour décroitre ensuite ([url=http://petrole.blog.lemonde.fr/2012/11/13/les-etats-unis-1er-producteur-mondial-de-petrole-en-2017/]source[/url]).
+Au final le pseudo-plateau devrait durer quelques années avant que l'on observe une réelle diminution de la production.
+
+La diminution de la production de pétrole va fortement impacter le transport, avec une élévation des coûts dans un premier temps, puis une pénurie. Il faudra bien trouver une alternative. Pour rejoindre le point de vue environnemental, il vaudrait mieux trouver cette alternative avant que l'on ait le combo plus de pétrole ET environnement difficile à vivre.
+
+Une des aberrations de la voiture est que pour transporter 100 kg d'humain (1,1 personne par voiture), on doit utiliser de l'énergie pour déplacer 1,3 tonnes (voir plus) avec un moteur dont le rendement moyen est de 15 % ([url=http://www.ifpenergiesnouvelles.fr/Espace-Decouverte/Les-cles-pour-comprendre/Automobile-et-carburants/Les-moteurs-conventionnels]source[/url]).
+
+Enfin, afin de lutter contre la pollution notamment, mais aussi pour les équipements de confort, on équipe la voiture de systèmes nécessitant des matériaux rares comme le platine et le palladium pour les catalyseurs, l'indium pour les écrans, etc. dont les réserves ne permettront pas de satisfaire tout le monde.
+
+
+[b][u]Les solutions et alternatives[/u][/b]
+
+Qu'on soit clair dès le début, il n'y a pas une solution à ces problèmes. Il faut faire intervenir un ensemble de solutions, complémentaires, et qui engendrent toutes une perte de confort pour les pro-voitures. Ces solutions peuvent répondre à certains des problèmes sans résoudre les autres, voir en les empirant. Il faut faire attention au coût de ces alternatives dans une période où la dette publique est déjà très élevée.
+
+- Une alternative est celle proposée par JM Jancovici ([url]https://www.youtube.com/watch?v=l2AIF0GtVYk[/url]), fabriquer une voiture sobre afin de diminuer les émissions de GES et la dépendance au pétrole. Le principe est d'inciter les constructeurs français à fabriquer une voiture légère, ne consommant que 2 l/100 km, avec peu de puissance et un confort moindre. Cette voiture serait adaptée à une vitesse réglementaire plus faible. En parallèle, il faudrait multiplier par 3 le prix de l'essence et, afin de ne pas léser les gens et d'inciter au renouvellement du parc, cette voiture serait fortement subventionnée. Dans son calcul, la subvention permettant le remplacement du parc serait moins chère que la construction du Grand Paris, estimée à 40 milliards d'euros (avant inflation du budget comme d'habitude) dont le résultat serait incertain de ce point de vue là.
+L'avantage de cette solution est que cela ne change pas trop les habitudes des gens d'utiliser la voiture. Malgré l'augmentation du nombre de personnes dans les TEC ou autre, la part modale de la voiture reste stable vers 83 % depuis des années.
+L'un des défauts de cette solution est que justement, ça ne change pas la part modale de la voiture et n'a donc quasiment aucune influence sur les congestions.
+
+- Le développement des transports alternatifs à la voiture, TEC et vélos, est intéressant. Ces modes de transport résolvent en grande partie le coût sociétal de la voiture, ainsi que du point de vue énergétique/environnemental. Pour cela, il faut développer les infrastructures afin d'inciter les gens à les utiliser : pistes cyclables, voies réservées aux TEC, meilleure desserte par le train, etc. 
+Evidemment, ça concerne surtout les villes moyennes et grandes, ainsi que le ville à ville. La voiture permet une flexibilité des déplacements extra-urbains inatteignables par ces solutions. En ville, dans de nombreux cas, le temps de trajet est équivalent voir plus court avec l'une de ces alternatives. 
+
+- La voiture électrique. Elle semble une bonne idée pour résoudre la pollution de l'air avec son absence d'émissions de polluants directs. C'est effectivement le cas en France et dans quelques pays ([url]https://www.youtube.com/watch?v=l2AIF0GtVYk[/url]), grâce à une production d'électricité peu carbonée (nucléaire pour la France). Dans ces pays là, l'analyse du cycle de vie (ACV) de la voiture électrique, c'est-à-dire les émissions de GES pour la construction, l'usage et la fin de la vie de la voiture, montre qu'elle est plus intéressante que la voiture thermique.
+[img]http://i2.wp.com/carfree.fr/img/2016/09/impact-voiture-electrique-climat.jpg[/img]
+Cela ne résout pas non plus le problème de la congestion, et la production en masse de voitures électriques risque de se heurter à un déficit en matières premières (lithium pour les batteries, néodyme pour les aimants, etc.).
+
+Cette liste n'est pas exhaustive, loin de là, mais permet une première approche pour discuter.
+
+
+Voilà pour le pavé, j'espère qu'il est lisible. Si vous avez des précisions à apporter, donnez les moi. S'il y a des points pas clairs, idem, dites le moi que je corrige. J'espère que tous les chiffres que je donne sont sourcés, sinon, pareil. J'ai eu un peu de flemme par moment, ça doit se sentir dans les raccourcis pris, c'était plus long que je ne pensais. Du coup, j'aurai aimé qu'il y ait encore plus de jolis graphiques, images ou autres, mais c'est très long de retrouver des informations, même celles que j'ai du chercher il y a 3 jours :o
+XaT, j'espère que ça peut t'aider.[/quotemsg]
+
+[b]La sédentarité malfaisante par freewind[/b] notre éclairé vélocypède.
+[quotemsg=47840204,4406,17870][b]Impacts du tout motorisé sur la santé - hors accident et pollution -[/b]
+by freewind © :o
+
+[*]la Sédentarité 
+Selon l'OMS, la sédentarité augmente et est un problème de santé publique mondial :
+http://www.who.int/dietphysicalactivity/factsheet_inactivity/fr/
+Des études sérieuses ont montré très clairement que l'usage permanent de véhicules motorisés pour se déplacer favorisait l'obésité (et donc tous les problèmes qui en découlent : santé cardio-vasculaire, effets psychologiques...)
+[img]https://i2.wp.com/carfree.fr/images/fatgraph.jpg?resize=420%2C375[/img]
+Source assez complète sur ce point : http://carfree.fr/index.php/2011/05/24/la-responsabilite-de-lautomobile-dans-le-developpement-de-lobesite/
+
+[*]Effets sur le stress
+Lien OMS : http://www.who.int/occupational_health/publications/stress/fr/
+
+1/ [b]stress au volant[/b]
+Énervement, agacement... on le sait tous, de nombreuses personnes deviennent irascibles, stressées et agressives qd elles conduisent.
+https://stress.ooreka.fr/astuce/voir/536353/stress-au-volant
+
+Les effets du stress sont nombreux et touchent tous les aspects de la santé mentale et physique sur le moyen ou le long terme (même à court terme). 
+https://www.ponroy.com/conseils-sante/detente-sommeil/surmenage-stress/les-consequences-du-stress-sur-l-organisme
+
+2/ [b]Stress lié au bruit et à la "violence de la circulation"[/b]
+On le sait tous, marcher, courir, rouler à vélo, rollers... le long d'un boulevard est oppressant pour des raisons évidentes : 
+- le [b]bruit de la circulation[/b] est souvent à la fois permanent, multiple (nombreuses fréquences) et violent et donc TRES désagréable (ce n'est pas de la musique). Ce bruit a un impact important à tous les niveaux : http://www.vedura.fr/environnement/pollution/pollution-sonore
+- La circulation des véhicules motorisés est [b]violente[/b] et [b]agressive[/b], et vécue comme telle par les usagers "fragiles" même s'ils sont "habitués" : accélérations, freinages, klaxon, agressivité (...). S'en suit un stress permanent surtout lorsqu'ils doivent traverser des chaussées, mais pas uniquement. Dans tous les cas, la "cohabitation" se fait toujours au détriment des usagers fragiles non nuisibles.[/quotemsg]
