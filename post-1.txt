@@ -1,4 +1,4 @@
-﻿[b]• La bévue du tout-voiture • Urbanisme et mobilités efficients •[/b]
+[b]• La bévue du tout-voiture • Urbanisme et mobilités efficients •[/b]
  
 [img]http://reho.st/http://i.imgur.com/i9lizst.png[/img]
  
@@ -14,7 +14,7 @@ Bienvenue sur le topic sur la problématique du tout-voiture en France, en Europ
 [fixed]
 [/fixed]
 
-Le FP est en cours de rédaction, vous pouvez donner un coup de main en m'envoyant un MP.
+Le FP est en cours de rédaction, vous pouvez donner un coup de main en m'envoyant un MP ou en passant par [url=https://github.com/XaaT/hfr-antivoiture]github[/url] [:__canard__] 
 
 [fixed]Avant-propos[/fixed]
 Ce qui suit est une honteuse copie de Wikipédia.
@@ -64,7 +64,4 @@ Jeu, set et match.
 
 [fixed]Liens[/fixed]
 [*][url=http://carfree.fr]CarFree.fr : site français sur l'Activisme antivoiture[/url]
-[*][Wikipedia FR] [url=https://www.wikiwand.com/fr/Activisme_antivoiture]Activisme antivoiture[/url] 
-
-
-
+[*][Wikipedia FR] [url=https://www.wikiwand.com/fr/Activisme_antivoiture]Activisme antivoiture[/url]
